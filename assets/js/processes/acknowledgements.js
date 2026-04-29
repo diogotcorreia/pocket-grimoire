@@ -6,4 +6,4 @@ import {
 } from "../utils/elements.js";
 
 // Populate the version number.
-lookupOne("#version").textContent = VERSION;
+lookupOne("#version").textContent = `${VERSION} (dtc-fork)`;
