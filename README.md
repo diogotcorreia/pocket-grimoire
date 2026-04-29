@@ -1,5 +1,20 @@
 # Pocket Grimoire
 
+This repository is a fork of [Skateside/pocket-grimoire](https://github.com/Skateside/pocket-grimoire).
+
+Key differences:
+
+- Migrations for PostgreSQL (instead of MySQL/MariaDB)
+- Nix shell for quick dev environment setup
+- ... and more soon
+
+This is not a hard fork.
+Improvements that are relevant for the upstream project will be contributed back.
+
+Versioning of this fork uses dates instead (e.g., 2026.04.30) to avoid conflicting with upstream versioning.
+
+---
+
 [PocketGrimoire.co.uk](https://www.pocketgrimoire.co.uk)
 
 A digital version of the [Blood on the Clocktower](https://bloodontheclocktower.com) grimoire, allowing in-person games.
